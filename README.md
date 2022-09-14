@@ -13,3 +13,23 @@ different CRUD operations (Create, Read, Update, and Delete operations) on the E
                     
 //  install, Setup and Run MongoDB in the background (https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/)
 .
+steps to be folllowed
+-----------------------
+. Create a Spring Boot Application (https://spring.io/guides/gs/spring-boot/)
+. The pom.xml File - Define Maven Dependencies
+. Project Structure
+. Configuring MongoDB database
+. Creating the Employee Model
+. Create a Spring Data Repository - EmployeeRepository.java
+. Creating the APIs - EmployeeController
+. Exception handling in RESTFul web services
+. Running Spring boot application
+
+after the Steps we need to Test REST APIs Using Postman Client or we can use any other like Swagger UI, Insomnia REST Client, Paw, Apigee, and cURL
+
+in this module We are using Postman as the client to test the CRUD operations
+
+install PostMan (https://www.postman.com/downloads/)
+
+Perform -- CRUD
+test it in Mongodb through URl
